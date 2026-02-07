@@ -1,0 +1,6 @@
+
+# Build artifacts
+game
+game.tap
+game.map
+*.bin

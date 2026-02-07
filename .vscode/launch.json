@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "dezog",
+            "request": "launch",
+            "name": "DeZog (ZX Spectrum)",
+            "topOfStack": "stack",
+            "z88dk": true,
+            "mapFile": "${workspaceFolder}/game.map",
+            "tapFile": "${workspaceFolder}/game.tap",
+            "rootFolder": "${workspaceFolder}"
+        }
+    ]
+}
