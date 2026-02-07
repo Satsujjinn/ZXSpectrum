@@ -1,8 +1,8 @@
-# LUMEN — Sinclair ZX Spectrum (48K)
+# THE GAME — Sinclair ZX Spectrum (48K)
 
 A minimal art game for the **Sinclair ZX Spectrum 48K**: you are light. Move through three chambers. Reach the star.
 
-- **Title:** LUMEN  
+- **Title:** THE GAME  
 - **Controls:** 5/6/7/8 (left/right/down/up) or Q/P/A/O  
 - **Goal:** Reach the bright **\*** in each room to advance; three rooms, then “LIGHT”.
 
