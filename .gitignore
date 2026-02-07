@@ -4,3 +4,4 @@ game
 game.tap
 game.map
 *.bin
+.DS_Store
